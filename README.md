@@ -1,7 +1,5 @@
 # Repositorio de mi sitio web con mi portafolio!! Welcome! 😁
 
-![](https://github.com/soyjuanbenitez/portafolio/blob/master/img/brand.png)
-
 ## Introducción
 Este sitio web nace de la necesidad de dar a conocer mis proyectos personales, estudios, etc, que se conozca un poco de mí.
 
